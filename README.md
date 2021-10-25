@@ -12,3 +12,7 @@ Cvičení 01
 9. Zarovnej všechny položky, aby měli základní hodnotu 100px a zarovnali se na střed containeru
 10. Itemu nastavte: width: 300px a flex-shrink: 0;
 11. Udělejte, aby vytékající položky se zalomily podsebe
+
+
+Cvičení 02
+
